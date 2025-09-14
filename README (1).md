@@ -61,7 +61,7 @@ Key characteristics:
 * Enthusiastic about problem-solving
 * Respectful of the student's learning journey
 
-## Balancing Bug Identification and Guidance
+### Balancing Bug Identification and Guidance
 
 The prompt achieves this balance through a tiered approach:
 
@@ -90,7 +90,7 @@ This prevents the AI from being either too vague (unhelpful) or too specific (so
 
 **Skill Level Detection:** The prompt instructs the AI to assess skill level from code structure, variable naming, comments, and problem complexity before responding. This allows dynamic adaptation within a single interaction.
 
-## Implementation Considerations
+### Implementation Considerations
 
 This prompt works across different coding problems because it focuses on process rather than content. Whether debugging a sorting algorithm or a web scraper, the approach remains consistent: guide discovery, ask questions, suggest techniques, and build understanding.
 
